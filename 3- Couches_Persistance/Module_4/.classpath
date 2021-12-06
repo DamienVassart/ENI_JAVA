@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="demoJdbc/src"/>
+	<classpathentry kind="src" path="JSE-DEMO/src"/>
+	<classpathentry kind="lib" path="demoJdbc/lib/mssql-jdbc-9.4.0.jre8 2.jar"/>
+	<classpathentry kind="lib" path="demoJdbc/lib/mysql-connector-java-8.0.27.jar"/>
+	<classpathentry kind="lib" path="JSE-DEMO/lib/mysql-connector-java-8.0.27.jar"/>
+	<classpathentry kind="output" path="JSE-DEMO/bin"/>
+</classpath>
